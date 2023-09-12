@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, me chamo Carlos Henrique Damasceno</h1>
 <h3 align="center">Desenvolvedor Full-stack</h3>
 
-- 🌱 Atualmente estudando **Spring Boot, Java, Kotlin**
+- 🌱 Atualmente estudando **Spring Boot, Java**
 
 <h3 align="left">Social:</h3>
 <p align="left">
