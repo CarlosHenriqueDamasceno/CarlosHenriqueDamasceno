@@ -1,7 +1,9 @@
-<h1 align="center">Oi 👋, me chamo Carlos Henrique Damasceno</h1>
+<h1 align="center">Oi 👋, me chamo Carlos Henrique</h1>
 <h3 align="center">Desenvolvedor Full-stack</h3>
 
+- 👨‍💻 Stack principal: **PHP, Laravel**
 - 🌱 Atualmente estudando **Spring Boot, Java**
+- 🔭 Interesses: **DDD, TDD, Arquitetura**
 
 <h3 align="left">Social:</h3>
 <p align="left">
