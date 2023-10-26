@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full-stack</h3>
 
 - 👨‍💻 Stack principal: **PHP, Laravel**
-- 🌱 Atualmente estudando **Spring Boot, Java e Kotlin**
+- 🌱 Atualmente estudando **Spring Boot, Java e Go**
 - 🔭 Interesses: **DDD, TDD, Arquitetura**
 
 <h3 align="left">Social:</h3>
